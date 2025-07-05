@@ -5,7 +5,8 @@ Machine Learning & Deep Learning Project about detecting suicidal thought from s
 
 # resources
 Dataset: [Suicide and Depression Detection](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch/data)
-NRC Emotion Lexicon [Official Source](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
+NRC Emotion Lexicon [Official Source](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) 
+The inputs are from These sources. Then you can do nescessary modification by the code. 
 
 # Models
-Transformers (BERT, RoBERTa, DistilBERT), Traditional ML (Logistic Regression, Random Forest, Naive Bayes, and SGD Classifier
+Transformers (BERT, RoBERTa, DistilBERT), Traditional ML (Logistic Regression, Random Forest, Naive Bayes, and SGD Classifier)
